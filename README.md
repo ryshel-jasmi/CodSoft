@@ -23,7 +23,7 @@ The second task involved creating a personal portfolio website using HTML, CSS a
 
 The final task involved creating a basic calculator using HTML, CSS, and JavaScript.
 
-- Files: `index.html`, `style.css`, `style.js`
+- Files: `index.html`, `index.css`, `style.js`
 - Description: The basic calculator is a simple web-based application that performs arithmetic operations. It allows users to add, subtract, multiply, and divide numbers.
 
 ## How to Interact with the Projects
