@@ -32,7 +32,7 @@ To view and interact with each task, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/CODSOFT.git
+   git clone https://github.com/ryshel-jasmi/CodSoft.git
    ```
 2. Navigate to the specific task folder you want to view, whether it's Task 1, Task 2, or Task 3.
 
